@@ -1,11 +1,11 @@
 # AluraFlix
 
-![Logo de AluraFlix](./src/assets/img/logo.svg)
+<img src="https://github.com/ViniciusKanh/Aluraflix-T5-FrontEnd/blob/main/src/assets/img/Logo.png" width="400" height="150" alt="Logo de AluraFlix">
 
 ---
 
-![Badge em Desenvolvimento]()
-![Estrelas no GitHub](https://img.shields.io/github/stars/zidjian?style=social)
+![](https://img.shields.io/badge/-react-blue) ![](https://img.shields.io/badge/-javascript-yellow) ![](https://img.shields.io/badge/-html5-orange) ![](https://img.shields.io/badge/-css3-informational)
+
 
 ## Índice
 
@@ -18,7 +18,6 @@
 ## Descrição do Projeto
 
 O AluraFlix é um desafio do programa Oracle Next Education e Alura Latan. Este desafio consistiu na criação de uma aplicação web destinada a ser um repositório de vídeos do YouTube, nos quais os vídeos estão classificados por categorias.
-![Mockup de AluraFlix](./src/assets/img/previsualização.png)
 
 ## Funcionalidades do Projeto
 
@@ -29,16 +28,21 @@ O AluraFlix é um desafio do programa Oracle Next Education e Alura Latan. Este 
 
 [Demo](https://aluraflix-phi-five.vercel.app/)
 
-## Tecnologias Utilizadas
+## Como rodar o projeto?
+Primeiro instalamos nossas dependências
+```bash
+npm install
+```
+... depois precisamos iniciar o json-server
+```bash
+npm run server
+```
+... e rodamos nossa aplicação em uma nova instância do terminal.
+```bash
+npm start
+```
+## Badge do Challenge da Alura
 
-- React
-- Swiper
-- Styled Components
-- Yup
-- Formik
-- Material UI
-- Axios
-- X Data Grid
 
 ## Autores
 
