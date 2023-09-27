@@ -26,7 +26,7 @@ O AluraFlix é um desafio do programa Oracle Next Education e Alura Latan. Este 
 
 ## Acesso ao Projeto
 
-[Demo](https://aluraflix-phi-five.vercel.app/)
+[Prototipo sem server.js]([https://aluraflix-phi-five.vercel.app/](https://aluraflix-t5-front-end.vercel.app/))
 
 ## Como rodar o projeto?
 Primeiro instalamos nossas dependências
