@@ -1,34 +1,38 @@
-# AluraFlix
+# 🎬 AluraFlix
 
-<img src="https://github.com/ViniciusKanh/Aluraflix-T5-FrontEnd/blob/main/src/assets/img/Logo.png" width="400" height="150" alt="Logo de AluraFlix">
+<div align="center">
+  <img src="https://github.com/ViniciusKanh/Aluraflix-T5-FrontEnd/blob/main/src/assets/img/Logo.png" width="400" height="150" alt="Logo de AluraFlix">
+</div>
 
 ---
 
-![](https://img.shields.io/badge/-react-blue) ![](https://img.shields.io/badge/-javascript-yellow) ![](https://img.shields.io/badge/-html5-orange) ![](https://img.shields.io/badge/-css3-informational)
+![React](https://img.shields.io/badge/React-💙-blue) 
+![JavaScript](https://img.shields.io/badge/JavaScript-💛-yellow) 
+![HTML5](https://img.shields.io/badge/HTML5-🟠-orange) 
+![CSS3](https://img.shields.io/badge/CSS3-💙-informational)
 
+## 📚 Índice
 
-## Índice
+- [🎯 Descrição do Projeto](#🎯-Descrição-do-Projeto)
+- [⚙️ Funcionalidades do Projeto](#⚙️-Funcionalidades-do-Projeto)
+- [🔗 Acesso ao Projeto](#🔗-Acesso-ao-Projeto)
+- [🛠️ Tecnologias Utilizadas](#🛠️-Tecnologias-Utilizadas)
+- [👨‍💻 Autores](#👨‍💻-Autores)
 
-- [Descrição do Projeto](#Descrição-do-Projeto)
-- [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
-- [Acesso ao Projeto](#Acesso-ao-Projeto)
-- [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
-- [Autores](#Autores)
+## 🎯 Descrição do Projeto
 
-## Descrição do Projeto
+O **AluraFlix** é um projeto desafiador lançado pelo programa Oracle Next Education e Alura Latan. Este projeto envolveu a criação de uma plataforma web dedicada a funcionar como um repositório de vídeos do YouTube, categorizados para fácil acesso e navegação.
 
-O AluraFlix é um desafio do programa Oracle Next Education e Alura Latan. Este desafio consistiu na criação de uma aplicação web destinada a ser um repositório de vídeos do YouTube, nos quais os vídeos estão classificados por categorias.
+## ⚙️ Funcionalidades do Projeto
 
-## Funcionalidades do Projeto
+- `📂 Categorias`: Listagem, cadastro, atualização e remoção de categorias
+- `🎥 Vídeos`: Listagem, cadastro, atualização e remoção de vídeos
 
-- `Funcionalidade 1`: Listagem, cadastro, atualização e remoção de categorias
-- `Funcionalidade 2`: Listagem, cadastro, atualização e remoção de vídeos
+## 🔗 Acesso ao Projeto
 
-## Acesso ao Projeto
+🌐 [Protótipo sem server.js](https://aluraflix-t5-front-end.vercel.app/)
 
-[Prototipo sem server.js]([https://aluraflix-phi-five.vercel.app/](https://aluraflix-t5-front-end.vercel.app/))
-
-## Como rodar o projeto?
+## 🚀 Como Rodar o Projeto?
 Primeiro instalamos nossas dependências
 ```bash
 npm install
@@ -41,10 +45,11 @@ npm run server
 ```bash
 npm start
 ```
-## Badge do Challenge da Alura
+## 🏆 Badge do Challenge da Alura
 
+*Em breve*
 
-## Autores
+## 👨‍💻 Autores
 
 | [<img src="https://github.com/ViniciusKanh.png" width=115><br><sub>Vinicius Santos </sub>](https://github.com/ViniciusKanh) |
 | :---: |
