@@ -47,7 +47,10 @@ npm start
 ```
 ## 🏆 Badge do Challenge da Alura
 
-*Em breve*
+<div align="center">
+  <img src="./assets/img/badge.png" alt="Badge do Challenge da Alura">
+</div>
+
 
 ## 👨‍💻 Autores
 
