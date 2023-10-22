@@ -48,7 +48,7 @@ npm start
 ## 🏆 Badge do Challenge da Alura
 
 <div align="center">
-  <img src="./assets/img/badge.png" alt="Badge do Challenge da Alura">
+  <img src="https://github.com/ViniciusKanh/Aluraflix-T5-FrontEnd/blob/main/src/assets/img/badge.png" width="300" height="300" alt="Badge do Challenge da Alura">
 </div>
 
 
